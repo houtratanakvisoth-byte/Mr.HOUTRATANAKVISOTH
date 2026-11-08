@@ -1,0 +1,6 @@
+{
+  "name": "DevJournal & Portfolio",
+  "description": "Developer portfolio and technical journal with project showcase, interactive CV, article feed, and step-by-step profile customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
